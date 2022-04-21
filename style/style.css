@@ -77,11 +77,11 @@ section > p{
 }
 
 #img01{
-    background: url(images/background001.jpg) right center/cover fixed;
+    background: url(../images/background001.jpg) right center/cover fixed;
 }
 
 #img02{
-    background: url(images/background002.jpg) right center/cover fixed;
+    background: url(../images/background002.jpg) right center/cover fixed;
 }
 
 footer{
